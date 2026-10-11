@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sample-1.iml" filepath="$PROJECT_DIR$/Sample-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample-2/Sample-2.iml" filepath="$PROJECT_DIR$/Sample-2/Sample-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-10/Sample04-10.iml" filepath="$PROJECT_DIR$/Sample04-10/Sample04-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-3/Sample04-3.iml" filepath="$PROJECT_DIR$/Sample04-3/Sample04-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-4/Sample04-4.iml" filepath="$PROJECT_DIR$/Sample04-4/Sample04-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-5/Sample04-5.iml" filepath="$PROJECT_DIR$/Sample04-5/Sample04-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-6/Sample04-6.iml" filepath="$PROJECT_DIR$/Sample04-6/Sample04-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-3/Sample04-7/Sample04-7.iml" filepath="$PROJECT_DIR$/Sample04-3/Sample04-7/Sample04-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-8/Sample04-8.iml" filepath="$PROJECT_DIR$/Sample04-8/Sample04-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample04-9/Sample04-9.iml" filepath="$PROJECT_DIR$/Sample04-9/Sample04-9.iml" />
+    </modules>
+  </component>
+</project>
