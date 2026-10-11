@@ -19,6 +19,6 @@ void main() {
     day = hour / 24;
     hour = hour - (day * 24);
 
-    System.out.printf("\n%,d초는 %d일 %d시간 %d분 %d초\n", second,day, second, minute, result);
+    System.out.printf("\n%,d초는 %d일 %d시간 %d분 %d초\n", second,day, hour, minute, result);
 
 }
